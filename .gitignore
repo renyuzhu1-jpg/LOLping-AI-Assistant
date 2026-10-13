@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist/
+release/
+site-dist/
+native/hook-helper/build/
+*.log
+.DS_Store
+tools/extract-assets/.cache/
+tools/extract-assets/__pycache__/
